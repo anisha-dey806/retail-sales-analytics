@@ -1,0 +1,801 @@
+order_id,order_date,customer_id,product_name,category,region,sales_channel,quantity,sales,cost,profit
+O00291,2025-07-15,C0086,Storage Box,Home & Kitchen,Central,Retail Store,3,1425.0,1059.07,365.93
+O00019,2025-07-16,C0219,Skincare Kit,Beauty & Personal Care,West,Online,2,1615.0,1556.89,58.11
+O00061,2025-03-18,C0186,Pens Set,Office Supplies,North,Marketplace,1,153.0,129.17,23.83
+O00129,2025-01-17,C0111,Pens Set,Office Supplies,Central,Marketplace,1,180,134.59,45.41
+O00326,2025-01-10,C0032,Headphones,Electronics,South,Marketplace,2,2900,1636.91,1263.09
+O00150,2025-01-14,C0156,Hair Dryer,Beauty & Personal Care,North,Marketplace,1,1600,1010.21,589.79
+O00139,2025-02-17,C0105,USB Hub,Electronics,North,Retail Store,3,2550,1417.42,1132.58
+O00330,2025-07-25,C0109,Grooming Kit,Beauty & Personal Care,South,Online,1,1250,908.6,341.4
+O00424,2025-02-03,C0184,Wireless Mouse,Electronics,North,Marketplace,5,2762.5,1899.52,862.98
+O00372,2025-09-28,C0108,Skincare Kit,Beauty & Personal Care,West,Marketplace,4,3800,2316.35,1483.65
+O00255,2025-07-30,C0202,Backpack,Fashion,East,Retail Store,4,4800,3342.6,1457.4
+O00083,2025-12-27,C0084,Perfume,Beauty & Personal Care,South,Marketplace,2,3600,2710.09,889.91
+O00243,2025-03-26,C0055,Headphones,Electronics,Central,Marketplace,1,1232.5,891.77,340.73
+O00122,2025-11-15,C0040,Sneakers,Fashion,West,Marketplace,1,2280.0,1758.11,521.89
+O00031,2025-04-09,C0142,Wallet,Fashion,South,Marketplace,4,2200,1698.24,501.76
+O00361,2025-12-29,C0040,Storage Box,Home & Kitchen,South,Marketplace,1,500,280.66,219.34
+O00126,2025-07-24,C0079,Pens Set,Office Supplies,East,Marketplace,1,171.0,128.74,42.26
+O00100,2025-10-28,C0107,File Organizer,Office Supplies,Central,Retail Store,2,510.0,467.84,42.16
+O00253,2025-11-01,C0113,Cookware Set,Home & Kitchen,West,Retail Store,1,2090.0,1383.11,706.89
+O00028,2025-10-19,C0212,Backpack,Fashion,South,Retail Store,2,2040.0,1849.43,190.57
+O00527,2025-09-13,C0083,Pens Set,Office Supplies,West,Online,1,180,109.78,70.22
+O00539,2025-01-14,C0168,Perfume,Beauty & Personal Care,South,Retail Store,1,1800,1292.33,507.67
+O00066,2025-04-06,C0012,Grooming Kit,Beauty & Personal Care,Central,Marketplace,2,2125.0,1499.36,625.64
+O00450,2025-01-21,C0049,Pens Set,Office Supplies,North,Marketplace,1,180,135.65,44.35
+O00327,2025-06-08,C0028,File Organizer,Office Supplies,West,Marketplace,3,810.0,697.98,112.02
+O00469,2025-07-10,C0132,Water Bottle,Home & Kitchen,South,Retail Store,1,332.5,225.65,106.85
+O00017,2025-03-23,C0023,Wireless Mouse,Electronics,South,Online,1,650,414.25,235.75
+O00281,2025-08-05,C0211,Wireless Mouse,Electronics,East,Online,3,1657.5,1217.51,439.99
+O00279,2025-08-30,C0198,Perfume,Beauty & Personal Care,Central,Marketplace,1,1800,1315.3,484.7
+O00330,2025-03-24,C0063,Keyboard,Electronics,East,Retail Store,1,1100,852.06,247.94
+O00313,2025-05-09,C0219,Printer Paper,Office Supplies,South,Retail Store,1,420,326.88,93.12
+O00425,2025-10-06,C0141,Keyboard,Electronics,Central,Marketplace,2,2200,1431.94,768.06
+O00379,2025-08-19,C0108,Water Bottle,Home & Kitchen,North,Online,3,1050,661.48,388.52
+O00123,2025-09-11,C0108,USB Hub,Electronics,West,Retail Store,3,2295.0,1435.39,859.61
+O00017,2025-12-03,C0022,Skincare Kit,Beauty & Personal Care,North,Marketplace,3,2422.5,2315.43,107.07
+O00089,2025-10-18,C0071,Wallet,Fashion,Central,Retail Store,1,550,325.23,224.77
+O00533,2025-07-17,C0091,T-Shirt,Fashion,Central,Online,1,585.0,518.84,66.16
+O00277,2025-12-18,C0178,Pens Set,Office Supplies,West,Retail Store,1,153.0,112.1,40.9
+O00276,2025-02-15,C0063,Hair Dryer,Beauty & Personal Care,East,Online,1,1360.0,915.37,444.63
+O00506,2025-03-31,C0033,Pens Set,Office Supplies,North,Online,1,162.0,99.36,62.64
+O00287,2025-02-07,C0143,Keyboard,Electronics,East,Online,2,2200,1329.0,871.0
+O00469,2025-02-08,C0038,Notebook Pack,Office Supplies,South,Marketplace,4,748.0,500.2,247.8
+O00426,2025-04-19,C0065,T-Shirt,Fashion,West,Retail Store,1,650,446.91,203.09
+O00098,2025-08-17,C0123,File Organizer,Office Supplies,North,Retail Store,2,600,354.01,245.99
+O00327,2025-03-19,C0075,Wallet,Fashion,South,Online,1,550,443.02,106.98
+O00219,2025-06-27,C0022,Keyboard,Electronics,North,Marketplace,1,1100,896.51,203.49
+O00436,2025-11-22,C0159,Perfume,Beauty & Personal Care,North,Marketplace,2,3060.0,2678.64,381.36
+O00416,2025-12-25,C0129,T-Shirt,Fashion,South,Marketplace,2,1170.0,865.53,304.47
+O00409,2025-02-18,C0005,T-Shirt,Fashion,South,Marketplace,1,650,526.65,123.35
+O00311,2025-08-01,C0229,Sneakers,Fashion,South,Retail Store,1,2400,1600.85,799.15
+O00412,2025-04-05,C0217,Hair Dryer,Beauty & Personal Care,North,Retail Store,1,1600,1128.6,471.4
+O00455,2025-01-26,C0139,Perfume,Beauty & Personal Care,South,Retail Store,2,3600,2891.89,708.11
+O00093,2025-08-09,C0198,Headphones,Electronics,South,Online,3,3915.0,3285.56,629.44
+O00534,2025-06-07,C0014,Keyboard,Electronics,North,Marketplace,3,2805.0,2420.84,384.16
+O00210,2025-07-06,C0119,Printer Paper,Office Supplies,North,Online,1,420,338.38,81.62
+O00131,2025-08-10,C0140,Backpack,Fashion,North,Marketplace,3,3060.0,2907.63,152.37
+O00108,2025-12-31,C0156,Hair Dryer,Beauty & Personal Care,North,Marketplace,1,1520.0,901.46,618.54
+O00398,2025-03-09,C0120,Storage Box,Home & Kitchen,South,Online,2,1000,578.78,421.22
+O00124,2025-01-25,C0199,Headphones,Electronics,West,Retail Store,5,7250,5039.47,2210.53
+O00461,2025-02-09,C0142,Printer Paper,Office Supplies,North,Retail Store,1,420,270.68,149.32
+O00448,2025-08-17,C0089,Desk Lamp,Home & Kitchen,West,Marketplace,1,900,511.48,388.52
+O00271,2025-11-02,C0218,Perfume,Beauty & Personal Care,North,Marketplace,1,1800,1436.43,363.57
+O00459,2025-12-20,C0152,T-Shirt,Fashion,South,Marketplace,4,2340.0,1560.34,779.66
+O00220,2025-03-29,C0124,Water Bottle,Home & Kitchen,West,Online,2,700,435.76,264.24
+O00177,2025-11-26,C0067,Pens Set,Office Supplies,East,Marketplace,3,540,364.73,175.27
+O00279,2025-11-23,C0114,File Organizer,Office Supplies,North,Marketplace,1,285.0,206.84,78.16
+O00344,2025-10-25,C0004,Grooming Kit,Beauty & Personal Care,Central,Retail Store,1,1250,844.12,405.88
+O00246,2025-04-08,C0155,Desk Lamp,Home & Kitchen,South,Online,1,900,658.01,241.99
+O00330,2025-03-07,C0215,Hair Dryer,Beauty & Personal Care,South,Retail Store,1,1360.0,1210.32,149.68
+O00286,2025-10-22,C0044,Backpack,Fashion,North,Retail Store,1,1140.0,828.78,311.22
+O00002,2025-01-24,C0202,Notebook Pack,Office Supplies,Central,Marketplace,2,374.0,326.73,47.27
+O00301,2025-12-20,C0021,Perfume,Beauty & Personal Care,North,Marketplace,5,9000,5204.4,3795.6
+O00215,2025-03-09,C0021,Pens Set,Office Supplies,West,Marketplace,3,459.0,328.82,130.18
+O00234,2025-12-28,C0122,Backpack,Fashion,South,Online,1,1200,955.7,244.3
+O00156,2025-08-03,C0230,File Organizer,Office Supplies,North,Marketplace,1,285.0,176.7,108.3
+O00030,2025-10-24,C0190,Desk Lamp,Home & Kitchen,West,Online,1,900,679.04,220.96
+O00427,2025-12-03,C0213,Notebook Pack,Office Supplies,South,Retail Store,1,220,159.35,60.65
+O00481,2025-06-26,C0150,Desk Lamp,Home & Kitchen,Central,Retail Store,2,1800,1379.06,420.94
+O00012,2025-12-14,C0098,Cookware Set,Home & Kitchen,South,Online,1,1870.0,1465.14,404.86
+O00236,2025-08-10,C0090,Backpack,Fashion,Central,Online,1,1200,802.88,397.12
+O00136,2025-07-14,C0118,Grooming Kit,Beauty & Personal Care,North,Marketplace,1,1250,891.93,358.07
+O00362,2025-05-02,C0084,File Organizer,Office Supplies,South,Marketplace,1,285.0,244.78,40.22
+O00301,2025-11-14,C0033,Backpack,Fashion,West,Online,1,1080.0,745.97,334.03
+O00015,2025-12-30,C0080,T-Shirt,Fashion,South,Online,1,617.5,483.09,134.41
+O00182,2025-04-14,C0034,Cookware Set,Home & Kitchen,West,Online,5,9350.0,8387.62,962.38
+O00472,2025-06-05,C0207,Water Bottle,Home & Kitchen,Central,Online,1,315.0,212.6,102.4
+O00331,2025-10-24,C0194,Wireless Mouse,Electronics,South,Online,1,650,519.5,130.5
+O00479,2025-11-15,C0126,Backpack,Fashion,West,Online,1,1140.0,845.56,294.44
+O00514,2025-05-22,C0160,Perfume,Beauty & Personal Care,Central,Retail Store,1,1800,1340.22,459.78
+O00107,2025-08-20,C0220,Wireless Mouse,Electronics,West,Online,2,1235.0,792.02,442.98
+O00119,2025-01-07,C0032,USB Hub,Electronics,South,Online,4,3400,1955.61,1444.39
+O00169,2025-11-23,C0175,Skincare Kit,Beauty & Personal Care,South,Retail Store,2,1900,1396.43,503.57
+O00495,2025-10-10,C0080,Hair Dryer,Beauty & Personal Care,East,Retail Store,1,1360.0,1004.03,355.97
+O00453,2025-07-07,C0065,Pens Set,Office Supplies,West,Marketplace,2,306.0,256.79,49.21
+O00263,2025-05-19,C0021,Backpack,Fashion,North,Online,2,2040.0,1361.96,678.04
+O00050,2025-12-03,C0001,Wireless Mouse,Electronics,Central,Marketplace,1,650,401.04,248.96
+O00516,2025-05-15,C0114,USB Hub,Electronics,North,Online,1,850,494.37,355.63
+O00302,2025-06-23,C0152,Printer Paper,Office Supplies,West,Online,1,420,319.33,100.67
+O00375,2025-12-27,C0192,USB Hub,Electronics,Central,Online,1,850,639.78,210.22
+O00059,2025-02-22,C0104,File Organizer,Office Supplies,West,Retail Store,3,900,662.15,237.85
+O00428,2025-03-01,C0165,Hair Dryer,Beauty & Personal Care,West,Marketplace,1,1600,1029.98,570.02
+O00111,2025-01-18,C0227,Water Bottle,Home & Kitchen,North,Retail Store,4,1260.0,866.31,393.69
+O00081,2025-06-15,C0136,Hair Dryer,Beauty & Personal Care,Central,Online,1,1600,1097.12,502.88
+O00175,2025-06-23,C0015,Pens Set,Office Supplies,Central,Marketplace,1,162.0,104.35,57.65
+O00151,2025-09-26,C0188,Pens Set,Office Supplies,Central,Online,1,180,101.04,78.96
+O00227,2025-10-04,C0149,Perfume,Beauty & Personal Care,West,Marketplace,1,1530.0,1330.02,199.98
+O00064,2025-08-01,C0128,Backpack,Fashion,South,Retail Store,1,1200,945.77,254.23
+O00167,2025-04-03,C0128,Wallet,Fashion,South,Online,1,550,382.37,167.63
+O00127,2025-08-28,C0069,T-Shirt,Fashion,West,Marketplace,3,1852.5,1272.68,579.82
+O00535,2025-02-16,C0066,Grooming Kit,Beauty & Personal Care,South,Marketplace,3,3750,2582.85,1167.15
+O00116,2025-11-16,C0113,Notebook Pack,Office Supplies,East,Marketplace,2,374.0,246.34,127.66
+O00245,2025-07-20,C0055,Hair Dryer,Beauty & Personal Care,East,Online,1,1600,1013.92,586.08
+O00438,2025-12-03,C0075,Backpack,Fashion,Central,Marketplace,1,1140.0,766.98,373.02
+O00185,2025-03-27,C0216,Desk Lamp,Home & Kitchen,East,Retail Store,1,855.0,725.49,129.51
+O00076,2025-01-24,C0108,Water Bottle,Home & Kitchen,North,Retail Store,1,332.5,205.79,126.71
+O00335,2025-07-26,C0051,T-Shirt,Fashion,North,Retail Store,5,3250,2019.58,1230.42
+O00319,2025-03-27,C0211,Skincare Kit,Beauty & Personal Care,East,Marketplace,1,902.5,565.1,337.4
+O00072,2025-10-18,C0167,Wireless Mouse,Electronics,North,Marketplace,1,552.5,491.45,61.05
+O00062,2025-08-11,C0140,Wireless Mouse,Electronics,Central,Online,1,617.5,398.19,219.31
+O00159,2025-03-18,C0159,Wireless Mouse,Electronics,South,Retail Store,1,585.0,494.28,90.72
+O00111,2025-11-21,C0061,Notebook Pack,Office Supplies,Central,Marketplace,1,220,127.86,92.14
+O00508,2025-10-24,C0038,USB Hub,Electronics,West,Online,1,850,516.66,333.34
+O00067,2025-07-05,C0064,Grooming Kit,Beauty & Personal Care,West,Retail Store,4,4500.0,3570.92,929.08
+O00312,2025-07-18,C0095,USB Hub,Electronics,East,Marketplace,4,3400,2230.46,1169.54
+O00118,2025-10-17,C0177,Water Bottle,Home & Kitchen,East,Online,1,350,238.54,111.46
+O00059,2025-01-03,C0158,File Organizer,Office Supplies,East,Retail Store,4,1140.0,935.83,204.17
+O00303,2025-07-26,C0130,Desk Lamp,Home & Kitchen,Central,Marketplace,3,2700,2082.17,617.83
+O00245,2025-12-01,C0105,Sneakers,Fashion,East,Retail Store,1,2160.0,1947.54,212.46
+O00004,2025-04-16,C0089,File Organizer,Office Supplies,Central,Marketplace,1,270.0,207.02,62.98
+O00143,2025-03-01,C0053,Wallet,Fashion,Central,Marketplace,1,550,432.1,117.9
+O00290,2025-12-13,C0116,Notebook Pack,Office Supplies,North,Online,5,990.0,756.87,233.13
+O00006,2025-07-15,C0190,Desk Lamp,Home & Kitchen,West,Retail Store,3,2700,1840.83,859.17
+O00056,2025-04-27,C0062,Backpack,Fashion,Central,Retail Store,1,1200,705.01,494.99
+O00241,2025-02-04,C0085,USB Hub,Electronics,South,Online,3,2550,1928.4,621.6
+O00509,2025-03-30,C0168,Printer Paper,Office Supplies,Central,Retail Store,2,798.0,583.13,214.87
+O00112,2025-04-04,C0092,T-Shirt,Fashion,West,Retail Store,2,1300,820.85,479.15
+O00485,2025-02-04,C0218,Skincare Kit,Beauty & Personal Care,West,Marketplace,2,1900,1298.85,601.15
+O00149,2025-11-01,C0189,Wireless Mouse,Electronics,West,Marketplace,4,2340.0,1559.83,780.17
+O00037,2025-08-01,C0151,Cookware Set,Home & Kitchen,East,Retail Store,1,2200,1383.09,816.91
+O00535,2025-07-06,C0217,Desk Lamp,Home & Kitchen,North,Marketplace,1,765.0,542.1,222.9
+O00030,2025-11-23,C0199,Pens Set,Office Supplies,North,Online,1,162.0,115.62,46.38
+O00130,2025-08-22,C0135,Hair Dryer,Beauty & Personal Care,East,Marketplace,1,1600,1106.98,493.02
+O00538,2025-07-10,C0075,T-Shirt,Fashion,East,Marketplace,3,1755.0,1076.47,678.53
+O00072,2025-06-14,C0159,Wallet,Fashion,Central,Retail Store,2,935.0,858.44,76.56
+O00420,2025-03-18,C0218,Wallet,Fashion,South,Online,1,550,373.52,176.48
+O00286,2025-06-24,C0065,Wireless Mouse,Electronics,East,Marketplace,3,1950,1380.61,569.39
+O00114,2025-01-22,C0033,Headphones,Electronics,East,Online,1,1450,908.3,541.7
+O00104,2025-03-15,C0149,Keyboard,Electronics,East,Online,1,1045.0,879.37,165.63
+O00202,2025-01-09,C0045,Desk Lamp,Home & Kitchen,South,Marketplace,1,855.0,569.27,285.73
+O00457,2025-11-11,C0194,Perfume,Beauty & Personal Care,East,Online,1,1530.0,1004.01,525.99
+O00413,2025-04-25,C0134,Skincare Kit,Beauty & Personal Care,South,Retail Store,2,1805.0,1406.27,398.73
+O00509,2025-09-05,C0015,Keyboard,Electronics,East,Marketplace,4,3740.0,3580.77,159.23
+O00105,2025-01-01,C0215,Wallet,Fashion,East,Marketplace,2,1100,851.44,248.56
+O00310,2025-06-29,C0028,Hair Dryer,Beauty & Personal Care,South,Retail Store,2,2720.0,1993.91,726.09
+O00140,2025-02-19,C0172,Wireless Mouse,Electronics,West,Online,1,552.5,395.86,156.64
+O00434,2025-07-30,C0198,Notebook Pack,Office Supplies,North,Retail Store,1,220,129.78,90.22
+O00332,2025-10-06,C0054,Backpack,Fashion,West,Marketplace,1,1200,822.33,377.67
+O00023,2025-09-12,C0066,Pens Set,Office Supplies,Central,Online,1,180,137.0,43.0
+O00014,2025-02-24,C0073,Storage Box,Home & Kitchen,North,Online,3,1500,1018.0,482.0
+O00168,2025-08-28,C0062,T-Shirt,Fashion,South,Retail Store,1,650,398.52,251.48
+O00166,2025-05-26,C0030,Notebook Pack,Office Supplies,Central,Retail Store,1,220,169.52,50.48
+O00227,2025-06-08,C0188,T-Shirt,Fashion,Central,Online,2,1300,835.32,464.68
+O00352,2025-09-14,C0219,Backpack,Fashion,North,Retail Store,2,2040.0,1587.38,452.62
+O00403,2025-04-29,C0165,Skincare Kit,Beauty & Personal Care,West,Retail Store,4,3800,2859.12,940.88
+O00525,2025-07-25,C0090,Grooming Kit,Beauty & Personal Care,Central,Retail Store,1,1250,891.55,358.45
+O00460,2025-03-15,C0141,Keyboard,Electronics,Central,Online,2,1870.0,1336.88,533.12
+O00004,2025-08-24,C0105,Pens Set,Office Supplies,Central,Online,2,324.0,277.87,46.13
+O00061,2025-04-05,C0196,Cookware Set,Home & Kitchen,East,Marketplace,1,1870.0,1392.26,477.74
+O00337,2025-12-18,C0025,Water Bottle,Home & Kitchen,East,Retail Store,1,350,265.03,84.97
+O00275,2025-11-10,C0202,Notebook Pack,Office Supplies,Central,Marketplace,2,440,309.36,130.64
+O00479,2025-11-22,C0052,Desk Lamp,Home & Kitchen,Central,Online,1,900,644.15,255.85
+O00018,2025-09-03,C0202,USB Hub,Electronics,South,Online,1,722.5,541.67,180.83
+O00184,2025-11-24,C0173,Headphones,Electronics,West,Online,1,1377.5,1014.37,363.13
+O00246,2025-02-16,C0173,Notebook Pack,Office Supplies,Central,Retail Store,1,220,134.05,85.95
+O00365,2025-06-24,C0173,Grooming Kit,Beauty & Personal Care,South,Marketplace,2,2500,1567.47,932.53
+O00529,2025-10-24,C0202,Grooming Kit,Beauty & Personal Care,East,Online,2,2500,1463.92,1036.08
+O00134,2025-01-22,C0105,USB Hub,Electronics,North,Marketplace,2,1700,1027.82,672.18
+O00140,2025-06-04,C0150,Keyboard,Electronics,North,Online,1,1100,767.43,332.57
+O00100,2025-04-30,C0228,Hair Dryer,Beauty & Personal Care,West,Online,1,1600,1279.61,320.39
+O00396,2025-07-02,C0003,Water Bottle,Home & Kitchen,North,Online,4,1400,946.76,453.24
+O00524,2025-05-09,C0215,USB Hub,Electronics,East,Marketplace,1,850,643.56,206.44
+O00245,2025-02-25,C0088,Keyboard,Electronics,East,Online,1,935.0,762.53,172.47
+O00250,2025-05-24,C0046,Printer Paper,Office Supplies,East,Online,2,756.0,493.92,262.08
+O00098,2025-06-05,C0198,Water Bottle,Home & Kitchen,Central,Retail Store,1,350,244.38,105.62
+O00427,2025-09-10,C0054,Desk Lamp,Home & Kitchen,North,Online,1,810.0,526.88,283.12
+O00393,2025-04-06,C0131,T-Shirt,Fashion,West,Online,1,617.5,484.37,133.13
+O00422,2025-08-21,C0046,Storage Box,Home & Kitchen,South,Online,2,1000,576.34,423.66
+O00013,2025-08-01,C0040,Notebook Pack,Office Supplies,East,Online,2,440,286.91,153.09
+O00413,2025-11-21,C0191,Water Bottle,Home & Kitchen,West,Retail Store,3,892.5,640.21,252.29
+O00226,2025-03-12,C0151,Printer Paper,Office Supplies,West,Marketplace,1,357.0,279.28,77.72
+O00198,2025-07-14,C0116,Headphones,Electronics,South,Marketplace,2,2900,2251.08,648.92
+O00171,2025-07-11,C0089,Wallet,Fashion,Central,Marketplace,3,1650,1088.8,561.2
+O00384,2025-04-07,C0124,Pens Set,Office Supplies,North,Marketplace,1,180,103.03,76.97
+O00266,2025-12-13,C0117,Skincare Kit,Beauty & Personal Care,East,Retail Store,1,950,702.87,247.13
+O00523,2025-09-12,C0067,Water Bottle,Home & Kitchen,South,Marketplace,1,315.0,218.2,96.8
+O00393,2025-10-23,C0164,Sneakers,Fashion,South,Marketplace,2,4560.0,2699.46,1860.54
+O00049,2025-01-16,C0091,T-Shirt,Fashion,East,Retail Store,4,2210.0,2020.86,189.14
+O00222,2025-03-15,C0078,Pens Set,Office Supplies,South,Online,1,180,120.41,59.59
+O00458,2025-01-03,C0093,Storage Box,Home & Kitchen,West,Online,1,500,350.55,149.45
+O00495,2025-10-07,C0090,Storage Box,Home & Kitchen,East,Retail Store,2,1000,580.69,419.31
+O00168,2025-03-07,C0046,Water Bottle,Home & Kitchen,East,Marketplace,1,297.5,235.56,61.94
+O00107,2025-07-22,C0169,Storage Box,Home & Kitchen,Central,Retail Store,3,1350.0,1005.03,344.97
+O00203,2025-12-26,C0041,Printer Paper,Office Supplies,West,Marketplace,1,378.0,291.03,86.97
+O00064,2025-06-09,C0064,T-Shirt,Fashion,North,Marketplace,2,1170.0,816.6,353.4
+O00024,2025-09-12,C0058,Backpack,Fashion,West,Marketplace,1,1080.0,796.22,283.78
+O00020,2025-01-01,C0123,Wireless Mouse,Electronics,West,Online,5,2925.0,2471.45,453.55
+O00318,2025-03-13,C0151,Printer Paper,Office Supplies,Central,Marketplace,1,357.0,321.2,35.8
+O00055,2025-08-17,C0210,Grooming Kit,Beauty & Personal Care,West,Online,2,2250.0,1780.98,469.02
+O00030,2025-08-30,C0026,Wireless Mouse,Electronics,North,Online,1,650,376.36,273.64
+O00499,2025-08-22,C0047,Perfume,Beauty & Personal Care,Central,Retail Store,1,1800,1013.5,786.5
+O00105,2025-10-25,C0135,Keyboard,Electronics,West,Retail Store,2,2200,1242.79,957.21
+O00281,2025-01-11,C0155,Headphones,Electronics,North,Retail Store,1,1305.0,943.09,361.91
+O00065,2025-10-01,C0151,Storage Box,Home & Kitchen,North,Retail Store,2,1000,616.01,383.99
+O00451,2025-11-06,C0052,Water Bottle,Home & Kitchen,Central,Online,1,315.0,257.3,57.7
+O00422,2025-04-01,C0139,Headphones,Electronics,West,Marketplace,2,2900,2229.78,670.22
+O00125,2025-02-05,C0176,T-Shirt,Fashion,Central,Marketplace,1,650,433.9,216.1
+O00422,2025-10-08,C0064,Pens Set,Office Supplies,Central,Marketplace,2,360,229.6,130.4
+O00055,2025-05-28,C0193,Perfume,Beauty & Personal Care,East,Online,2,3240.0,2217.26,1022.74
+O00485,2025-08-19,C0108,Water Bottle,Home & Kitchen,North,Marketplace,3,1050,631.34,418.66
+O00124,2025-04-28,C0094,Perfume,Beauty & Personal Care,North,Marketplace,3,4860.0,4049.13,810.87
+O00255,2025-04-22,C0017,T-Shirt,Fashion,West,Retail Store,2,1105.0,811.96,293.04
+O00233,2025-12-18,C0057,Hair Dryer,Beauty & Personal Care,East,Retail Store,3,4800,2671.12,2128.88
+O00049,2025-03-29,C0092,Pens Set,Office Supplies,North,Marketplace,1,180,116.15,63.85
+O00207,2025-03-15,C0032,Cookware Set,Home & Kitchen,West,Marketplace,2,4400,3345.03,1054.97
+O00187,2025-11-17,C0054,Notebook Pack,Office Supplies,East,Online,3,627.0,461.83,165.17
+O00522,2025-06-15,C0012,File Organizer,Office Supplies,South,Online,3,765.0,523.16,241.84
+O00162,2025-11-30,C0187,Printer Paper,Office Supplies,North,Online,2,756.0,472.9,283.1
+O00524,2025-06-04,C0215,Grooming Kit,Beauty & Personal Care,West,Online,3,3375.0,2377.24,997.76
+O00047,2025-02-23,C0080,Wireless Mouse,Electronics,West,Online,1,552.5,399.89,152.61
+O00402,2025-07-08,C0128,Water Bottle,Home & Kitchen,South,Retail Store,2,700,545.28,154.72
+O00437,2025-10-22,C0126,Headphones,Electronics,South,Online,3,4350,2567.75,1782.25
+O00054,2025-01-11,C0043,Wireless Mouse,Electronics,West,Retail Store,1,552.5,462.73,89.77
+O00126,2025-08-22,C0168,Wallet,Fashion,South,Marketplace,2,1045.0,879.49,165.51
+O00066,2025-02-13,C0156,Pens Set,Office Supplies,West,Online,1,180,136.98,43.02
+O00110,2025-02-05,C0087,T-Shirt,Fashion,East,Marketplace,1,552.5,462.26,90.24
+O00014,2025-11-18,C0166,Wireless Mouse,Electronics,Central,Retail Store,2,1105.0,984.46,120.54
+O00470,2025-07-28,C0054,USB Hub,Electronics,South,Online,2,1700,1022.23,677.77
+O00524,2025-12-04,C0109,Perfume,Beauty & Personal Care,West,Online,2,3240.0,2179.89,1060.11
+O00313,2025-11-02,C0225,Headphones,Electronics,Central,Online,3,3915.0,2859.79,1055.21
+O00535,2025-10-11,C0198,Sneakers,Fashion,West,Online,2,4560.0,3723.0,837.0
+O00054,2025-08-06,C0132,File Organizer,Office Supplies,South,Online,1,300,172.19,127.81
+O00019,2025-06-12,C0067,File Organizer,Office Supplies,Central,Marketplace,1,300,217.46,82.54
+O00011,2025-09-14,C0157,Perfume,Beauty & Personal Care,Central,Marketplace,1,1710.0,1239.31,470.69
+O00270,2025-08-02,C0091,Keyboard,Electronics,South,Retail Store,1,1100,747.44,352.56
+O00402,2025-07-13,C0189,Wallet,Fashion,South,Retail Store,4,2090.0,1763.46,326.54
+O00373,2025-03-25,C0123,Pens Set,Office Supplies,South,Marketplace,2,342.0,225.86,116.14
+O00069,2025-03-31,C0144,Perfume,Beauty & Personal Care,West,Marketplace,1,1710.0,1278.87,431.13
+O00396,2025-12-14,C0024,Water Bottle,Home & Kitchen,Central,Retail Store,1,350,197.76,152.24
+O00339,2025-01-25,C0086,Skincare Kit,Beauty & Personal Care,Central,Marketplace,2,1615.0,1158.11,456.89
+O00059,2025-07-23,C0044,Notebook Pack,Office Supplies,Central,Retail Store,2,440,292.86,147.14
+O00222,2025-03-16,C0134,Storage Box,Home & Kitchen,South,Marketplace,2,950.0,633.61,316.39
+O00522,2025-01-21,C0163,Headphones,Electronics,East,Retail Store,2,2465.0,1886.47,578.53
+O00166,2025-12-18,C0191,Desk Lamp,Home & Kitchen,North,Marketplace,1,855.0,560.79,294.21
+O00185,2025-11-30,C0228,Perfume,Beauty & Personal Care,Central,Retail Store,1,1530.0,1153.7,376.3
+O00419,2025-03-05,C0100,Desk Lamp,Home & Kitchen,North,Retail Store,3,2700,1489.42,1210.58
+O00492,2025-07-14,C0131,File Organizer,Office Supplies,West,Retail Store,1,300,219.98,80.02
+O00495,2025-02-16,C0070,Notebook Pack,Office Supplies,Central,Marketplace,1,220,169.01,50.99
+O00273,2025-03-27,C0230,Storage Box,Home & Kitchen,West,Online,2,1000,558.16,441.84
+O00260,2025-04-14,C0100,Sneakers,Fashion,South,Online,1,2400,1705.02,694.98
+O00402,2025-02-08,C0102,Skincare Kit,Beauty & Personal Care,Central,Retail Store,2,1900,1250.53,649.47
+O00471,2025-09-19,C0073,Pens Set,Office Supplies,North,Online,2,306.0,270.86,35.14
+O00334,2025-09-23,C0001,Grooming Kit,Beauty & Personal Care,Central,Marketplace,3,3750,2799.65,950.35
+O00015,2025-03-27,C0037,Backpack,Fashion,South,Retail Store,1,1140.0,934.79,205.21
+O00058,2025-11-23,C0048,Desk Lamp,Home & Kitchen,South,Retail Store,1,855.0,576.79,278.21
+O00159,2025-12-14,C0128,Hair Dryer,Beauty & Personal Care,South,Retail Store,1,1520.0,990.53,529.47
+O00119,2025-05-01,C0076,Perfume,Beauty & Personal Care,North,Marketplace,1,1620.0,1030.7,589.3
+O00331,2025-03-03,C0043,Water Bottle,Home & Kitchen,South,Online,1,315.0,281.49,33.51
+O00333,2025-01-11,C0132,File Organizer,Office Supplies,East,Online,2,510.0,401.93,108.07
+O00454,2025-12-13,C0228,Sneakers,Fashion,North,Online,1,2160.0,1514.68,645.32
+O00446,2025-01-24,C0191,Keyboard,Electronics,South,Online,1,990.0,745.13,244.87
+O00251,2025-10-05,C0073,Perfume,Beauty & Personal Care,Central,Retail Store,1,1620.0,1222.41,397.59
+O00465,2025-03-09,C0038,Storage Box,Home & Kitchen,North,Marketplace,1,425.0,323.25,101.75
+O00487,2025-10-25,C0183,Hair Dryer,Beauty & Personal Care,East,Retail Store,2,2880.0,2478.21,401.79
+O00030,2025-09-06,C0003,Cookware Set,Home & Kitchen,West,Marketplace,3,6600,3697.54,2902.46
+O00253,2025-10-15,C0177,Wireless Mouse,Electronics,South,Online,3,1950,1083.32,866.68
+O00274,2025-02-24,C0149,Printer Paper,Office Supplies,East,Online,2,840,664.37,175.63
+O00190,2025-11-05,C0136,Desk Lamp,Home & Kitchen,East,Marketplace,3,2295.0,1943.84,351.16
+O00521,2025-09-16,C0179,Wireless Mouse,Electronics,North,Marketplace,4,2600,2039.07,560.93
+O00113,2025-09-22,C0014,Keyboard,Electronics,East,Retail Store,2,1980.0,1522.85,457.15
+O00140,2025-04-13,C0014,Skincare Kit,Beauty & Personal Care,Central,Marketplace,1,950,559.99,390.01
+O00019,2025-09-08,C0012,Backpack,Fashion,North,Online,4,4800,3722.81,1077.19
+O00263,2025-01-05,C0227,T-Shirt,Fashion,Central,Retail Store,1,650,424.9,225.1
+O00435,2025-07-24,C0055,Grooming Kit,Beauty & Personal Care,Central,Online,2,2250.0,1852.59,397.41
+O00024,2025-05-29,C0004,File Organizer,Office Supplies,South,Retail Store,4,1020.0,857.67,162.33
+O00025,2025-04-14,C0012,Backpack,Fashion,East,Retail Store,3,3600,2020.71,1579.29
+O00304,2025-05-13,C0147,Sneakers,Fashion,East,Online,3,7200,5371.47,1828.53
+O00480,2025-08-11,C0131,Water Bottle,Home & Kitchen,East,Marketplace,1,332.5,255.44,77.06
+O00458,2025-12-02,C0031,Backpack,Fashion,South,Online,4,4800,3859.39,940.61
+O00017,2025-10-09,C0202,Skincare Kit,Beauty & Personal Care,South,Online,2,1710.0,1335.04,374.96
+O00451,2025-10-10,C0059,Perfume,Beauty & Personal Care,West,Online,2,3240.0,2468.55,771.45
+O00222,2025-07-29,C0210,T-Shirt,Fashion,North,Retail Store,1,650,422.58,227.42
+O00098,2025-10-22,C0213,Backpack,Fashion,East,Marketplace,1,1080.0,971.01,108.99
+O00233,2025-07-02,C0018,T-Shirt,Fashion,Central,Retail Store,1,617.5,526.05,91.45
+O00340,2025-08-11,C0047,Cookware Set,Home & Kitchen,West,Online,5,10450.0,7276.14,3173.86
+O00355,2025-11-14,C0195,Wireless Mouse,Electronics,West,Retail Store,1,617.5,374.82,242.68
+O00302,2025-01-16,C0164,T-Shirt,Fashion,Central,Marketplace,2,1300,795.36,504.64
+O00108,2025-10-21,C0033,Storage Box,Home & Kitchen,East,Retail Store,1,500,365.84,134.16
+O00332,2025-01-21,C0168,Sneakers,Fashion,South,Online,1,2040.0,1623.22,416.78
+O00154,2025-07-11,C0162,Perfume,Beauty & Personal Care,East,Marketplace,1,1800,1187.58,612.42
+O00503,2025-05-06,C0086,Headphones,Electronics,North,Online,1,1450,848.22,601.78
+O00185,2025-07-27,C0123,Printer Paper,Office Supplies,Central,Retail Store,1,378.0,237.28,140.72
+O00456,2025-06-11,C0117,Desk Lamp,Home & Kitchen,East,Online,2,1800,1093.75,706.25
+O00209,2025-11-12,C0051,Grooming Kit,Beauty & Personal Care,West,Online,1,1062.5,744.69,317.81
+O00342,2025-01-19,C0200,Notebook Pack,Office Supplies,South,Retail Store,3,561.0,413.49,147.51
+O00113,2025-08-28,C0061,USB Hub,Electronics,West,Online,1,765.0,515.25,249.75
+O00405,2025-12-27,C0163,Notebook Pack,Office Supplies,West,Retail Store,2,374.0,318.34,55.66
+O00361,2025-03-15,C0018,Notebook Pack,Office Supplies,East,Marketplace,1,198.0,160.66,37.34
+O00039,2025-01-12,C0053,Sneakers,Fashion,Central,Marketplace,5,12000,8841.87,3158.13
+O00048,2025-02-27,C0062,Desk Lamp,Home & Kitchen,South,Online,1,765.0,730.98,34.02
+O00504,2025-05-08,C0073,Water Bottle,Home & Kitchen,West,Online,2,630.0,390.9,239.1
+O00430,2025-02-21,C0088,T-Shirt,Fashion,East,Retail Store,4,2210.0,2064.18,145.82
+O00282,2025-04-20,C0157,Keyboard,Electronics,East,Online,1,1100,899.52,200.48
+O00047,2025-09-24,C0196,Storage Box,Home & Kitchen,North,Marketplace,3,1275.0,1208.63,66.37
+O00013,2025-05-07,C0098,Hair Dryer,Beauty & Personal Care,Central,Marketplace,2,3200,2246.06,953.94
+O00075,2025-03-15,C0030,Desk Lamp,Home & Kitchen,South,Retail Store,1,900,633.96,266.04
+O00057,2025-09-16,C0164,Storage Box,Home & Kitchen,South,Retail Store,1,500,374.89,125.11
+O00061,2025-06-15,C0043,Hair Dryer,Beauty & Personal Care,Central,Marketplace,1,1440.0,1072.61,367.39
+O00045,2025-10-30,C0203,Storage Box,Home & Kitchen,Central,Retail Store,2,900.0,809.5,90.5
+O00225,2025-05-10,C0230,Headphones,Electronics,North,Marketplace,1,1305.0,979.96,325.04
+O00384,2025-05-11,C0146,Desk Lamp,Home & Kitchen,East,Marketplace,2,1800,1404.83,395.17
+O00010,2025-03-16,C0180,Cookware Set,Home & Kitchen,North,Online,1,2090.0,1589.32,500.68
+O00427,2025-08-28,C0178,Backpack,Fashion,North,Retail Store,2,2040.0,1487.56,552.44
+O00036,2025-11-24,C0045,T-Shirt,Fashion,North,Marketplace,3,1950,1085.22,864.78
+O00367,2025-01-26,C0191,File Organizer,Office Supplies,North,Marketplace,1,300,241.63,58.37
+O00049,2025-03-15,C0199,USB Hub,Electronics,West,Marketplace,1,765.0,576.96,188.04
+O00523,2025-04-24,C0223,File Organizer,Office Supplies,East,Online,1,270.0,201.12,68.88
+O00487,2025-08-02,C0196,Storage Box,Home & Kitchen,North,Online,2,1000,601.51,398.49
+O00406,2025-04-14,C0010,Printer Paper,Office Supplies,East,Retail Store,2,714.0,544.27,169.73
+O00067,2025-05-02,C0144,Storage Box,Home & Kitchen,East,Marketplace,3,1425.0,1086.04,338.96
+O00111,2025-09-16,C0143,Grooming Kit,Beauty & Personal Care,East,Online,2,2500,1549.46,950.54
+O00068,2025-12-06,C0111,Cookware Set,Home & Kitchen,West,Retail Store,1,1980.0,1625.72,354.28
+O00090,2025-02-20,C0170,Wallet,Fashion,North,Marketplace,3,1650,1344.72,305.28
+O00508,2025-09-09,C0185,Skincare Kit,Beauty & Personal Care,South,Marketplace,1,855.0,541.47,313.53
+O00327,2025-09-05,C0026,File Organizer,Office Supplies,East,Marketplace,3,765.0,610.15,154.85
+O00258,2025-01-29,C0116,Hair Dryer,Beauty & Personal Care,East,Marketplace,1,1440.0,933.03,506.97
+O00140,2025-04-09,C0022,USB Hub,Electronics,South,Retail Store,1,850,653.27,196.73
+O00026,2025-04-16,C0110,Wallet,Fashion,Central,Online,1,495.0,436.64,58.36
+O00265,2025-01-18,C0189,Printer Paper,Office Supplies,East,Marketplace,4,1680,1002.62,677.38
+O00081,2025-05-20,C0169,Backpack,Fashion,West,Retail Store,3,3600,2818.73,781.27
+O00109,2025-05-12,C0225,Sneakers,Fashion,South,Marketplace,1,2280.0,1802.08,477.92
+O00503,2025-10-27,C0210,Wireless Mouse,Electronics,Central,Marketplace,4,2600,1660.75,939.25
+O00181,2025-03-23,C0021,Printer Paper,Office Supplies,East,Retail Store,1,357.0,310.29,46.71
+O00051,2025-06-17,C0200,Skincare Kit,Beauty & Personal Care,East,Retail Store,2,1900,1134.77,765.23
+O00174,2025-12-23,C0046,Pens Set,Office Supplies,North,Online,5,855.0,636.94,218.06
+O00327,2025-09-19,C0025,Keyboard,Electronics,South,Marketplace,2,2200,1790.16,409.84
+O00491,2025-04-01,C0029,Desk Lamp,Home & Kitchen,North,Marketplace,1,900,597.1,302.9
+O00371,2025-04-29,C0080,File Organizer,Office Supplies,South,Online,3,765.0,697.53,67.47
+O00268,2025-01-18,C0131,Storage Box,Home & Kitchen,West,Retail Store,1,450.0,345.84,104.16
+O00366,2025-07-11,C0110,Wireless Mouse,Electronics,North,Retail Store,1,585.0,531.8,53.2
+O00425,2025-11-23,C0095,Skincare Kit,Beauty & Personal Care,West,Retail Store,1,950,562.44,387.56
+O00454,2025-03-17,C0100,Headphones,Electronics,East,Retail Store,1,1450,990.11,459.89
+O00406,2025-04-26,C0194,Wireless Mouse,Electronics,North,Online,3,1950,1212.48,737.52
+O00267,2025-02-08,C0130,Printer Paper,Office Supplies,West,Online,1,399.0,259.69,139.31
+O00204,2025-11-18,C0060,File Organizer,Office Supplies,Central,Retail Store,2,510.0,360.58,149.42
+O00300,2025-11-11,C0207,Water Bottle,Home & Kitchen,Central,Retail Store,1,350,261.17,88.83
+O00274,2025-01-26,C0219,USB Hub,Electronics,Central,Retail Store,3,2550,1669.51,880.49
+O00243,2025-12-19,C0020,Wireless Mouse,Electronics,Central,Retail Store,2,1170.0,860.5,309.5
+O00171,2025-06-16,C0175,Cookware Set,Home & Kitchen,West,Marketplace,2,4400,2862.18,1537.82
+O00244,2025-12-22,C0130,Printer Paper,Office Supplies,East,Marketplace,1,420,292.22,127.78
+O00239,2025-03-26,C0030,Hair Dryer,Beauty & Personal Care,West,Online,1,1600,882.59,717.41
+O00029,2025-06-06,C0225,Storage Box,Home & Kitchen,West,Retail Store,2,850.0,616.22,233.78
+O00140,2025-09-09,C0200,Water Bottle,Home & Kitchen,East,Retail Store,1,350,233.92,116.08
+O00001,2025-01-30,C0054,Keyboard,Electronics,South,Online,3,3300,2527.65,772.35
+O00426,2025-11-28,C0051,File Organizer,Office Supplies,West,Online,1,255.0,214.78,40.22
+O00074,2025-07-02,C0083,Desk Lamp,Home & Kitchen,West,Marketplace,1,810.0,690.52,119.48
+O00286,2025-10-20,C0031,Backpack,Fashion,West,Retail Store,1,1200,948.19,251.81
+O00324,2025-12-20,C0059,Water Bottle,Home & Kitchen,Central,Online,2,700,491.88,208.12
+O00221,2025-04-04,C0021,Wireless Mouse,Electronics,Central,Online,3,1950,1081.17,868.83
+O00019,2025-09-19,C0230,Keyboard,Electronics,East,Marketplace,1,990.0,833.68,156.32
+O00044,2025-05-12,C0206,Notebook Pack,Office Supplies,East,Retail Store,1,198.0,146.39,51.61
+O00531,2025-08-12,C0125,Storage Box,Home & Kitchen,West,Marketplace,2,950.0,681.15,268.85
+O00293,2025-08-01,C0043,Desk Lamp,Home & Kitchen,Central,Retail Store,2,1800,1233.46,566.54
+O00397,2025-09-22,C0047,Skincare Kit,Beauty & Personal Care,Central,Online,4,3800,3074.12,725.88
+O00082,2025-10-23,C0032,File Organizer,Office Supplies,North,Marketplace,2,510.0,420.56,89.44
+O00387,2025-07-05,C0193,Hair Dryer,Beauty & Personal Care,East,Marketplace,1,1600,1254.58,345.42
+O00199,2025-08-10,C0174,Storage Box,Home & Kitchen,North,Online,1,500,392.75,107.25
+O00455,2025-09-03,C0104,Keyboard,Electronics,North,Online,1,1100,755.95,344.05
+O00291,2025-03-30,C0206,File Organizer,Office Supplies,West,Retail Store,2,600,348.88,251.12
+O00264,2025-12-15,C0122,File Organizer,Office Supplies,East,Retail Store,2,600,471.43,128.57
+O00068,2025-01-27,C0182,Notebook Pack,Office Supplies,North,Marketplace,1,198.0,130.17,67.83
+O00010,2025-11-07,C0088,Storage Box,Home & Kitchen,North,Marketplace,3,1500,868.97,631.03
+O00326,2025-07-09,C0083,Headphones,Electronics,West,Retail Store,4,5220.0,4174.87,1045.13
+O00514,2025-09-25,C0010,Headphones,Electronics,North,Marketplace,1,1450,974.37,475.63
+O00190,2025-05-17,C0155,Wallet,Fashion,West,Retail Store,1,467.5,371.18,96.32
+O00025,2025-12-30,C0106,Cookware Set,Home & Kitchen,South,Retail Store,1,2200,1503.65,696.35
+O00057,2025-01-10,C0107,Skincare Kit,Beauty & Personal Care,Central,Retail Store,1,950,764.86,185.14
+O00079,2025-01-26,C0017,Printer Paper,Office Supplies,Central,Marketplace,1,420,320.87,99.13
+O00024,2025-04-08,C0230,Cookware Set,Home & Kitchen,North,Online,2,4400,3228.97,1171.03
+O00532,2025-12-15,C0056,Headphones,Electronics,West,Marketplace,1,1377.5,1174.9,202.6
+O00247,2025-08-16,C0118,Perfume,Beauty & Personal Care,North,Retail Store,3,5400,4251.72,1148.28
+O00015,2025-11-11,C0085,Wallet,Fashion,West,Retail Store,1,550,346.28,203.72
+O00510,2025-11-12,C0226,Perfume,Beauty & Personal Care,North,Marketplace,2,3600,2162.31,1437.69
+O00038,2025-04-11,C0073,Printer Paper,Office Supplies,South,Retail Store,1,357.0,260.33,96.67
+O00225,2025-09-16,C0161,Water Bottle,Home & Kitchen,North,Marketplace,2,595.0,565.77,29.23
+O00036,2025-03-11,C0170,Backpack,Fashion,Central,Online,1,1200,911.67,288.33
+O00371,2025-02-01,C0201,Water Bottle,Home & Kitchen,North,Marketplace,1,332.5,193.73,138.77
+O00362,2025-10-05,C0122,Storage Box,Home & Kitchen,East,Retail Store,1,500,330.06,169.94
+O00442,2025-05-10,C0183,File Organizer,Office Supplies,North,Marketplace,1,300,226.2,73.8
+O00503,2025-10-17,C0102,Cookware Set,Home & Kitchen,North,Online,1,1980.0,1324.37,655.63
+O00280,2025-11-14,C0049,Cookware Set,Home & Kitchen,West,Retail Store,2,3960.0,3141.21,818.79
+O00347,2025-11-07,C0029,Skincare Kit,Beauty & Personal Care,Central,Online,2,1805.0,1296.51,508.49
+O00258,2025-12-02,C0039,Headphones,Electronics,West,Retail Store,2,2900,1803.68,1096.32
+O00423,2025-02-28,C0029,Pens Set,Office Supplies,South,Retail Store,1,153.0,99.46,53.54
+O00387,2025-08-23,C0010,Hair Dryer,Beauty & Personal Care,North,Marketplace,1,1600,1262.08,337.92
+O00373,2025-07-07,C0146,Storage Box,Home & Kitchen,Central,Marketplace,1,450.0,354.16,95.84
+O00012,2025-04-02,C0007,USB Hub,Electronics,South,Retail Store,1,850,567.05,282.95
+O00189,2025-09-23,C0188,Water Bottle,Home & Kitchen,South,Online,1,315.0,193.38,121.62
+O00252,2025-03-31,C0002,Keyboard,Electronics,Central,Retail Store,1,1100,656.82,443.18
+O00181,2025-05-15,C0003,Storage Box,Home & Kitchen,West,Retail Store,1,450.0,379.61,70.39
+O00365,2025-07-02,C0076,Pens Set,Office Supplies,North,Retail Store,1,153.0,144.85,8.15
+O00159,2025-06-16,C0114,Headphones,Electronics,West,Retail Store,1,1377.5,892.69,484.81
+O00063,2025-07-12,C0183,Notebook Pack,Office Supplies,West,Retail Store,3,660,509.69,150.31
+O00445,2025-02-18,C0230,Sneakers,Fashion,North,Marketplace,3,6120.0,5881.43,238.57
+O00128,2025-10-04,C0016,Grooming Kit,Beauty & Personal Care,East,Retail Store,3,3750,2188.26,1561.74
+O00145,2025-05-07,C0018,Wallet,Fashion,South,Retail Store,2,1100,884.39,215.61
+O00132,2025-09-10,C0041,Headphones,Electronics,North,Marketplace,1,1450,1136.25,313.75
+O00004,2025-03-04,C0208,Wallet,Fashion,Central,Online,2,990.0,887.07,102.93
+O00125,2025-07-28,C0070,Skincare Kit,Beauty & Personal Care,East,Online,3,2850,1779.19,1070.81
+O00118,2025-03-31,C0020,Perfume,Beauty & Personal Care,Central,Marketplace,3,5400,3269.95,2130.05
+O00398,2025-03-22,C0175,Headphones,Electronics,East,Online,1,1450,1086.4,363.6
+O00049,2025-09-29,C0129,T-Shirt,Fashion,Central,Retail Store,1,650,463.11,186.89
+O00183,2025-08-07,C0208,Notebook Pack,Office Supplies,South,Online,3,660,423.11,236.89
+O00019,2025-09-10,C0071,Printer Paper,Office Supplies,North,Online,2,840,688.04,151.96
+O00475,2025-03-02,C0127,Grooming Kit,Beauty & Personal Care,South,Online,1,1250,959.1,290.9
+O00310,2025-07-27,C0216,USB Hub,Electronics,East,Online,1,765.0,563.28,201.72
+O00352,2025-03-17,C0057,Keyboard,Electronics,North,Online,2,1870.0,1720.77,149.23
+O00185,2025-08-14,C0124,Notebook Pack,Office Supplies,East,Online,1,220,164.38,55.62
+O00474,2025-01-11,C0227,Notebook Pack,Office Supplies,South,Marketplace,1,220,148.14,71.86
+O00236,2025-06-03,C0065,Sneakers,Fashion,North,Marketplace,1,2040.0,1509.32,530.68
+O00106,2025-09-04,C0018,Skincare Kit,Beauty & Personal Care,West,Retail Store,2,1615.0,1453.66,161.34
+O00297,2025-08-01,C0146,Pens Set,Office Supplies,North,Marketplace,1,162.0,101.07,60.93
+O00313,2025-09-26,C0184,Sneakers,Fashion,North,Marketplace,2,4320.0,3171.08,1148.92
+O00162,2025-03-18,C0116,Sneakers,Fashion,South,Online,1,2400,1712.96,687.04
+O00143,2025-10-10,C0064,Sneakers,Fashion,North,Online,1,2400,1824.1,575.9
+O00377,2025-02-09,C0099,Water Bottle,Home & Kitchen,North,Online,1,350,200.25,149.75
+O00370,2025-03-09,C0190,Pens Set,Office Supplies,South,Retail Store,1,180,123.2,56.8
+O00480,2025-12-08,C0022,Sneakers,Fashion,East,Marketplace,1,2160.0,1669.87,490.13
+O00383,2025-04-08,C0221,Sneakers,Fashion,North,Retail Store,4,9600,5712.48,3887.52
+O00094,2025-06-06,C0059,Cookware Set,Home & Kitchen,West,Retail Store,1,1980.0,1688.4,291.6
+O00407,2025-12-03,C0008,Backpack,Fashion,Central,Online,1,1020.0,681.36,338.64
+O00082,2025-01-28,C0025,T-Shirt,Fashion,South,Marketplace,1,617.5,445.17,172.33
+O00361,2025-08-12,C0186,Pens Set,Office Supplies,East,Marketplace,1,180,118.65,61.35
+O00448,2025-05-01,C0203,Water Bottle,Home & Kitchen,West,Online,4,1260.0,1120.39,139.61
+O00272,2025-01-03,C0036,T-Shirt,Fashion,West,Retail Store,1,552.5,489.5,63.0
+O00155,2025-04-26,C0133,Wireless Mouse,Electronics,North,Online,2,1170.0,870.44,299.56
+O00152,2025-08-02,C0132,USB Hub,Electronics,Central,Marketplace,1,722.5,497.97,224.53
+O00277,2025-10-09,C0169,USB Hub,Electronics,Central,Marketplace,1,850,662.61,187.39
+O00485,2025-05-12,C0114,File Organizer,Office Supplies,North,Online,2,600,385.72,214.28
+O00139,2025-11-03,C0083,Wireless Mouse,Electronics,East,Retail Store,1,617.5,470.31,147.19
+O00231,2025-06-19,C0099,Pens Set,Office Supplies,South,Retail Store,1,162.0,120.65,41.35
+O00470,2025-07-24,C0021,T-Shirt,Fashion,East,Marketplace,2,1300,767.79,532.21
+O00372,2025-01-11,C0019,File Organizer,Office Supplies,West,Online,1,300,216.98,83.02
+O00043,2025-01-09,C0039,Storage Box,Home & Kitchen,West,Marketplace,1,475.0,409.47,65.53
+O00026,2025-01-10,C0137,Hair Dryer,Beauty & Personal Care,East,Retail Store,1,1520.0,1174.62,345.38
+O00504,2025-07-04,C0021,Printer Paper,Office Supplies,North,Marketplace,3,1071.0,867.63,203.37
+O00503,2025-07-30,C0115,Printer Paper,Office Supplies,North,Marketplace,2,756.0,544.54,211.46
+O00353,2025-01-11,C0039,Grooming Kit,Beauty & Personal Care,Central,Retail Store,3,3375.0,2311.71,1063.29
+O00020,2025-03-18,C0022,Headphones,Electronics,West,Retail Store,1,1450,1078.14,371.86
+O00092,2025-05-15,C0147,Skincare Kit,Beauty & Personal Care,West,Online,2,1710.0,1398.86,311.14
+O00265,2025-03-04,C0030,Backpack,Fashion,North,Online,1,1080.0,669.04,410.96
+O00373,2025-11-29,C0090,Hair Dryer,Beauty & Personal Care,North,Retail Store,4,6080.0,4657.28,1422.72
+O00500,2025-05-11,C0212,Water Bottle,Home & Kitchen,Central,Online,2,630.0,434.56,195.44
+O00333,2025-06-28,C0064,Grooming Kit,Beauty & Personal Care,Central,Marketplace,1,1125.0,698.53,426.47
+O00136,2025-03-12,C0187,Grooming Kit,Beauty & Personal Care,South,Retail Store,3,3750,2326.98,1423.02
+O00118,2025-01-22,C0178,Wallet,Fashion,West,Online,1,550,311.81,238.19
+O00116,2025-01-03,C0069,Pens Set,Office Supplies,East,Online,1,171.0,117.04,53.96
+O00408,2025-02-09,C0010,Perfume,Beauty & Personal Care,West,Marketplace,1,1800,1135.55,664.45
+O00091,2025-05-25,C0012,Skincare Kit,Beauty & Personal Care,Central,Online,2,1900,1450.72,449.28
+O00437,2025-09-24,C0199,Cookware Set,Home & Kitchen,East,Online,3,6600,4247.83,2352.17
+O00219,2025-08-02,C0014,Perfume,Beauty & Personal Care,Central,Online,1,1530.0,1026.55,503.45
+O00191,2025-08-25,C0020,File Organizer,Office Supplies,Central,Online,1,300,227.56,72.44
+O00519,2025-06-15,C0093,Notebook Pack,Office Supplies,Central,Online,2,440,318.68,121.32
+O00230,2025-03-25,C0066,USB Hub,Electronics,West,Online,1,850,578.89,271.11
+O00420,2025-03-12,C0139,Perfume,Beauty & Personal Care,South,Retail Store,2,3600,2529.02,1070.98
+O00159,2025-10-08,C0152,Water Bottle,Home & Kitchen,East,Online,2,700,418.62,281.38
+O00368,2025-05-06,C0013,Desk Lamp,Home & Kitchen,South,Online,1,855.0,643.64,211.36
+O00255,2025-04-24,C0131,Headphones,Electronics,North,Marketplace,2,2900,2023.3,876.7
+O00108,2025-05-02,C0025,Storage Box,Home & Kitchen,South,Online,1,425.0,287.58,137.42
+O00018,2025-09-10,C0142,Sneakers,Fashion,West,Marketplace,1,2400,1922.83,477.17
+O00449,2025-07-27,C0089,Water Bottle,Home & Kitchen,Central,Marketplace,1,350,209.04,140.96
+O00441,2025-10-19,C0114,Cookware Set,Home & Kitchen,West,Marketplace,2,4400,2680.86,1719.14
+O00091,2025-09-04,C0083,Headphones,Electronics,North,Online,1,1232.5,1020.99,211.51
+O00102,2025-09-02,C0118,Grooming Kit,Beauty & Personal Care,East,Marketplace,1,1250,812.48,437.52
+O00163,2025-06-17,C0084,Perfume,Beauty & Personal Care,Central,Marketplace,2,3600,2157.18,1442.82
+O00308,2025-02-05,C0113,USB Hub,Electronics,Central,Marketplace,4,3230.0,2166.48,1063.52
+O00229,2025-03-12,C0191,Wallet,Fashion,South,Marketplace,4,2200,1653.72,546.28
+O00085,2025-03-31,C0204,USB Hub,Electronics,South,Retail Store,2,1615.0,981.29,633.71
+O00242,2025-03-11,C0030,Headphones,Electronics,Central,Online,3,4350,3319.58,1030.42
+O00082,2025-07-29,C0124,Storage Box,Home & Kitchen,South,Retail Store,5,2500,1754.46,745.54
+O00165,2025-06-01,C0166,Cookware Set,Home & Kitchen,West,Marketplace,2,4180.0,2669.69,1510.31
+O00286,2025-04-13,C0043,Desk Lamp,Home & Kitchen,Central,Marketplace,2,1530.0,1408.93,121.07
+O00173,2025-11-13,C0117,Perfume,Beauty & Personal Care,Central,Online,1,1620.0,1079.2,540.8
+O00082,2025-05-23,C0181,Water Bottle,Home & Kitchen,South,Online,2,665.0,466.83,198.17
+O00112,2025-04-14,C0002,Sneakers,Fashion,East,Retail Store,1,2400,1555.7,844.3
+O00184,2025-04-01,C0206,Printer Paper,Office Supplies,East,Marketplace,1,378.0,315.32,62.68
+O00083,2025-12-29,C0013,Printer Paper,Office Supplies,East,Retail Store,1,399.0,245.59,153.41
+O00337,2025-07-01,C0036,File Organizer,Office Supplies,North,Marketplace,2,600,439.3,160.7
+O00327,2025-08-09,C0016,Cookware Set,Home & Kitchen,North,Online,1,2090.0,1781.45,308.55
+O00472,2025-11-29,C0078,Hair Dryer,Beauty & Personal Care,South,Online,3,4080.0,2939.97,1140.03
+O00533,2025-10-13,C0154,Notebook Pack,Office Supplies,East,Online,1,198.0,164.59,33.41
+O00017,2025-04-12,C0034,Wireless Mouse,Electronics,South,Online,1,552.5,361.19,191.31
+O00528,2025-08-14,C0130,Pens Set,Office Supplies,Central,Retail Store,2,360,289.08,70.92
+O00411,2025-12-23,C0009,USB Hub,Electronics,South,Marketplace,1,807.5,664.53,142.97
+O00149,2025-09-23,C0185,Pens Set,Office Supplies,West,Online,1,162.0,99.85,62.15
+O00492,2025-01-01,C0032,Notebook Pack,Office Supplies,West,Marketplace,1,220,161.14,58.86
+O00450,2025-07-11,C0120,Headphones,Electronics,West,Marketplace,1,1450,999.27,450.73
+O00153,2025-09-10,C0019,Wireless Mouse,Electronics,East,Online,1,617.5,361.94,255.56
+O00392,2025-04-06,C0223,USB Hub,Electronics,East,Online,1,765.0,603.18,161.82
+O00525,2025-03-12,C0184,Hair Dryer,Beauty & Personal Care,North,Online,1,1520.0,1114.1,405.9
+O00090,2025-10-10,C0070,USB Hub,Electronics,East,Marketplace,2,1700,1326.6,373.4
+O00399,2025-11-23,C0119,Headphones,Electronics,West,Retail Store,1,1450,953.57,496.43
+O00125,2025-12-22,C0185,Headphones,Electronics,Central,Retail Store,2,2900,2039.01,860.99
+O00494,2025-01-10,C0027,Sneakers,Fashion,Central,Marketplace,1,2400,1391.25,1008.75
+O00369,2025-10-31,C0213,T-Shirt,Fashion,South,Retail Store,1,585.0,380.9,204.1
+O00357,2025-11-30,C0028,Backpack,Fashion,South,Marketplace,3,3600,2014.21,1585.79
+O00315,2025-07-09,C0020,Storage Box,Home & Kitchen,East,Retail Store,1,425.0,381.22,43.78
+O00121,2025-03-18,C0199,Water Bottle,Home & Kitchen,West,Retail Store,1,297.5,242.03,55.47
+O00310,2025-06-09,C0216,Sneakers,Fashion,South,Marketplace,2,4800,3021.39,1778.61
+O00113,2025-03-15,C0075,Wallet,Fashion,Central,Marketplace,4,2200,1766.94,433.06
+O00043,2025-05-23,C0151,Water Bottle,Home & Kitchen,Central,Retail Store,3,945.0,754.62,190.38
+O00062,2025-04-02,C0213,Water Bottle,Home & Kitchen,South,Retail Store,1,350,225.79,124.21
+O00229,2025-08-17,C0230,Backpack,Fashion,South,Retail Store,1,1080.0,781.91,298.09
+O00294,2025-08-06,C0151,Backpack,Fashion,Central,Online,2,2400,1667.04,732.96
+O00366,2025-06-30,C0064,Pens Set,Office Supplies,East,Online,1,171.0,130.81,40.19
+O00065,2025-04-21,C0052,Keyboard,Electronics,Central,Retail Store,1,1100,869.26,230.74
+O00241,2025-09-08,C0129,Pens Set,Office Supplies,Central,Online,1,153.0,145.88,7.12
+O00488,2025-01-22,C0176,Printer Paper,Office Supplies,South,Retail Store,1,420,247.85,172.15
+O00477,2025-09-10,C0214,Keyboard,Electronics,South,Retail Store,1,1100,870.9,229.1
+O00387,2025-10-26,C0020,Pens Set,Office Supplies,Central,Online,1,180,142.98,37.02
+O00486,2025-04-14,C0016,Grooming Kit,Beauty & Personal Care,South,Retail Store,1,1187.5,853.43,334.07
+O00277,2025-11-08,C0165,Grooming Kit,Beauty & Personal Care,Central,Marketplace,1,1125.0,737.67,387.33
+O00536,2025-02-28,C0099,Perfume,Beauty & Personal Care,North,Retail Store,1,1800,1143.07,656.93
+O00212,2025-09-12,C0188,Pens Set,Office Supplies,South,Retail Store,2,342.0,286.06,55.94
+O00230,2025-03-16,C0013,Hair Dryer,Beauty & Personal Care,South,Marketplace,1,1600,930.97,669.03
+O00520,2025-05-17,C0155,Keyboard,Electronics,South,Marketplace,1,990.0,721.78,268.22
+O00440,2025-09-23,C0125,Water Bottle,Home & Kitchen,North,Marketplace,3,997.5,836.54,160.96
+O00242,2025-10-17,C0083,Backpack,Fashion,East,Online,1,1200,686.51,513.49
+O00355,2025-01-12,C0018,Sneakers,Fashion,Central,Marketplace,1,2400,1474.2,925.8
+O00016,2025-06-29,C0032,Headphones,Electronics,East,Online,1,1450,1066.33,383.67
+O00273,2025-03-06,C0110,File Organizer,Office Supplies,East,Retail Store,1,270.0,174.41,95.59
+O00208,2025-08-23,C0028,Skincare Kit,Beauty & Personal Care,North,Retail Store,3,2707.5,2237.9,469.6
+O00510,2025-01-20,C0196,Wireless Mouse,Electronics,East,Retail Store,1,650,434.94,215.06
+O00005,2025-10-09,C0098,T-Shirt,Fashion,Central,Marketplace,1,552.5,443.12,109.38
+O00438,2025-08-02,C0091,Sneakers,Fashion,North,Retail Store,2,4320.0,2750.04,1569.96
+O00204,2025-02-12,C0016,T-Shirt,Fashion,South,Marketplace,1,650,487.27,162.73
+O00256,2025-07-12,C0066,Water Bottle,Home & Kitchen,North,Online,1,350,249.31,100.69
+O00396,2025-03-22,C0183,Printer Paper,Office Supplies,Central,Retail Store,1,420,292.98,127.02
+O00303,2025-11-25,C0173,Desk Lamp,Home & Kitchen,West,Marketplace,1,900,628.96,271.04
+O00166,2025-12-02,C0086,Pens Set,Office Supplies,West,Marketplace,1,180,117.28,62.72
+O00494,2025-04-23,C0132,Wireless Mouse,Electronics,South,Online,1,650,398.13,251.87
+O00279,2025-03-18,C0222,USB Hub,Electronics,North,Online,4,3060.0,1978.69,1081.31
+O00498,2025-06-30,C0079,Backpack,Fashion,North,Marketplace,4,4800,2742.94,2057.06
+O00134,2025-07-02,C0009,File Organizer,Office Supplies,East,Retail Store,2,510.0,345.84,164.16
+O00492,2025-08-06,C0135,Water Bottle,Home & Kitchen,West,Online,2,630.0,473.99,156.01
+O00520,2025-07-26,C0189,Wireless Mouse,Electronics,East,Retail Store,5,3250,2491.22,758.78
+O00492,2025-02-12,C0080,Sneakers,Fashion,West,Marketplace,1,2280.0,1857.0,423.0
+O00501,2025-02-19,C0181,Wallet,Fashion,South,Marketplace,1,550,374.01,175.99
+O00169,2025-07-23,C0038,Keyboard,Electronics,North,Retail Store,1,1045.0,828.12,216.88
+O00011,2025-02-04,C0168,Notebook Pack,Office Supplies,West,Marketplace,1,220,167.07,52.93
+O00186,2025-03-03,C0038,Notebook Pack,Office Supplies,West,Online,1,220,131.97,88.03
+O00101,2025-09-11,C0222,Sneakers,Fashion,North,Retail Store,2,4800,3382.53,1417.47
+O00159,2025-05-31,C0131,USB Hub,Electronics,Central,Online,4,3400,2035.51,1364.49
+O00526,2025-08-12,C0028,File Organizer,Office Supplies,Central,Online,1,255.0,230.12,24.88
+O00126,2025-08-29,C0057,Cookware Set,Home & Kitchen,East,Marketplace,1,1870.0,1425.26,444.74
+O00365,2025-05-29,C0017,T-Shirt,Fashion,East,Marketplace,1,650,367.95,282.05
+O00103,2025-01-15,C0117,Headphones,Electronics,West,Retail Store,1,1305.0,1100.37,204.63
+O00316,2025-01-22,C0210,Skincare Kit,Beauty & Personal Care,West,Retail Store,3,2850,2311.86,538.14
+O00196,2025-02-28,C0189,File Organizer,Office Supplies,West,Online,1,300,211.17,88.83
+O00086,2025-02-21,C0199,Desk Lamp,Home & Kitchen,Central,Online,4,3060.0,2576.91,483.09
+O00396,2025-05-17,C0028,Skincare Kit,Beauty & Personal Care,South,Marketplace,2,1900,1182.0,718.0
+O00181,2025-10-30,C0121,Hair Dryer,Beauty & Personal Care,South,Online,1,1440.0,1311.07,128.93
+O00243,2025-01-21,C0121,Keyboard,Electronics,East,Online,2,2090.0,1758.32,331.68
+O00465,2025-08-10,C0060,Perfume,Beauty & Personal Care,West,Online,2,3600,2700.61,899.39
+O00271,2025-06-21,C0096,Pens Set,Office Supplies,West,Retail Store,1,162.0,134.32,27.68
+O00017,2025-10-18,C0226,Hair Dryer,Beauty & Personal Care,North,Online,2,2880.0,2534.12,345.88
+O00091,2025-11-22,C0187,File Organizer,Office Supplies,East,Marketplace,2,600,367.25,232.75
+O00119,2025-09-09,C0153,Keyboard,Electronics,East,Online,1,935.0,753.33,181.67
+O00108,2025-05-13,C0163,Headphones,Electronics,South,Online,1,1450,898.47,551.53
+O00014,2025-03-03,C0118,Water Bottle,Home & Kitchen,South,Marketplace,1,350,285.15,64.85
+O00530,2025-06-27,C0194,Water Bottle,Home & Kitchen,East,Marketplace,1,350,268.82,81.18
+O00280,2025-02-05,C0064,Headphones,Electronics,East,Retail Store,1,1450,1129.77,320.23
+O00465,2025-01-29,C0199,Water Bottle,Home & Kitchen,South,Online,2,700,444.86,255.14
+O00386,2025-09-14,C0118,Headphones,Electronics,North,Marketplace,1,1450,1066.12,383.88
+O00043,2025-09-01,C0075,Cookware Set,Home & Kitchen,West,Retail Store,4,7480.0,5786.57,1693.43
+O00264,2025-03-02,C0052,File Organizer,Office Supplies,Central,Retail Store,2,570.0,413.51,156.49
+O00220,2025-06-26,C0039,Headphones,Electronics,South,Marketplace,1,1305.0,922.19,382.81
+O00227,2025-04-27,C0084,Keyboard,Electronics,Central,Online,5,5225.0,4035.15,1189.85
+O00387,2025-11-16,C0031,Desk Lamp,Home & Kitchen,East,Retail Store,3,2295.0,1540.69,754.31
+O00457,2025-12-21,C0182,Grooming Kit,Beauty & Personal Care,West,Retail Store,2,2500,1400.41,1099.59
+O00067,2025-12-26,C0191,Perfume,Beauty & Personal Care,Central,Online,3,5400,3081.6,2318.4
+O00356,2025-03-15,C0196,Keyboard,Electronics,West,Retail Store,1,1045.0,859.05,185.95
+O00453,2025-01-28,C0103,Skincare Kit,Beauty & Personal Care,South,Online,1,950,553.36,396.64
+O00175,2025-10-29,C0184,Desk Lamp,Home & Kitchen,West,Online,1,810.0,634.48,175.52
+O00520,2025-08-23,C0222,Wallet,Fashion,North,Online,2,990.0,632.72,357.28
+O00005,2025-07-06,C0134,Pens Set,Office Supplies,West,Online,1,162.0,108.47,53.53
+O00425,2025-05-15,C0046,Backpack,Fashion,Central,Online,1,1140.0,726.94,413.06
+O00398,2025-07-20,C0164,Keyboard,Electronics,North,Online,1,1100,736.97,363.03
+O00136,2025-10-10,C0197,Printer Paper,Office Supplies,North,Online,1,378.0,312.91,65.09
+O00030,2025-11-10,C0116,Wireless Mouse,Electronics,North,Online,1,552.5,391.3,161.2
+O00343,2025-08-16,C0016,Perfume,Beauty & Personal Care,South,Retail Store,1,1710.0,1130.74,579.26
+O00359,2025-04-01,C0126,Storage Box,Home & Kitchen,Central,Marketplace,2,950.0,672.9,277.1
+O00010,2025-07-16,C0174,USB Hub,Electronics,East,Retail Store,4,2890.0,2052.4,837.6
+O00486,2025-08-06,C0178,Sneakers,Fashion,South,Marketplace,2,4800,3488.7,1311.3
+O00498,2025-02-25,C0167,File Organizer,Office Supplies,North,Marketplace,4,1140.0,698.47,441.53
+O00280,2025-07-19,C0070,Wallet,Fashion,East,Retail Store,1,550,346.56,203.44
+O00442,2025-08-21,C0084,Perfume,Beauty & Personal Care,East,Online,1,1530.0,1026.15,503.85
+O00043,2025-06-12,C0091,Grooming Kit,Beauty & Personal Care,West,Marketplace,4,5000,3052.1,1947.9
+O00253,2025-12-30,C0178,Printer Paper,Office Supplies,Central,Marketplace,1,420,313.79,106.21
+O00434,2025-08-08,C0051,Desk Lamp,Home & Kitchen,Central,Online,1,900,641.27,258.73
+O00465,2025-10-25,C0131,Cookware Set,Home & Kitchen,South,Retail Store,1,1870.0,1292.5,577.5
+O00464,2025-04-16,C0117,Headphones,Electronics,North,Marketplace,1,1305.0,854.03,450.97
+O00483,2025-01-21,C0098,Headphones,Electronics,Central,Marketplace,1,1305.0,955.59,349.41
+O00527,2025-08-02,C0070,Notebook Pack,Office Supplies,West,Marketplace,1,187.0,154.18,32.82
+O00506,2025-06-24,C0152,Wireless Mouse,Electronics,Central,Marketplace,3,1755.0,1438.46,316.54
+O00050,2025-07-14,C0226,Skincare Kit,Beauty & Personal Care,West,Online,1,855.0,593.14,261.86
+O00371,2025-10-13,C0035,Backpack,Fashion,West,Marketplace,1,1200,822.55,377.45
+O00145,2025-03-01,C0173,Grooming Kit,Beauty & Personal Care,East,Retail Store,1,1062.5,989.71,72.79
+O00345,2025-10-14,C0180,Desk Lamp,Home & Kitchen,North,Online,1,765.0,577.9,187.1
+O00334,2025-07-24,C0184,Backpack,Fashion,East,Online,5,6000,4593.01,1406.99
+O00424,2025-03-04,C0009,File Organizer,Office Supplies,North,Online,1,270.0,203.43,66.57
+O00525,2025-06-21,C0026,Printer Paper,Office Supplies,East,Online,1,420,300.24,119.76
+O00030,2025-09-20,C0208,Grooming Kit,Beauty & Personal Care,South,Marketplace,1,1125.0,892.74,232.26
+O00120,2025-06-29,C0222,Wireless Mouse,Electronics,East,Retail Store,1,617.5,362.96,254.54
+O00222,2025-02-23,C0227,Backpack,Fashion,West,Online,2,2040.0,1827.29,212.71
+O00024,2025-09-05,C0038,Notebook Pack,Office Supplies,Central,Retail Store,1,209.0,166.09,42.91
+O00150,2025-08-22,C0159,Water Bottle,Home & Kitchen,East,Retail Store,1,350,206.75,143.25
+O00145,2025-01-15,C0087,Water Bottle,Home & Kitchen,Central,Online,1,350,238.84,111.16
+O00204,2025-10-24,C0102,Grooming Kit,Beauty & Personal Care,East,Retail Store,3,3375.0,2952.08,422.92
+O00054,2025-02-20,C0218,Headphones,Electronics,South,Online,1,1377.5,960.41,417.09
+O00366,2025-04-01,C0168,File Organizer,Office Supplies,South,Marketplace,4,1020.0,768.17,251.83
+O00390,2025-06-27,C0025,Hair Dryer,Beauty & Personal Care,East,Marketplace,1,1360.0,1073.26,286.74
+O00270,2025-07-19,C0054,USB Hub,Electronics,Central,Marketplace,2,1700,1359.29,340.71
+O00234,2025-12-14,C0203,File Organizer,Office Supplies,East,Retail Store,1,300,175.11,124.89
+O00093,2025-05-04,C0110,Water Bottle,Home & Kitchen,South,Marketplace,1,350,266.01,83.99
+O00154,2025-06-20,C0041,Perfume,Beauty & Personal Care,South,Online,1,1530.0,1351.09,178.91
+O00463,2025-07-11,C0143,Water Bottle,Home & Kitchen,Central,Marketplace,1,350,207.22,142.78
+O00514,2025-04-07,C0060,Backpack,Fashion,South,Online,3,3240.0,2597.53,642.47
+O00231,2025-01-20,C0116,File Organizer,Office Supplies,West,Marketplace,1,255.0,236.78,18.22
+O00426,2025-08-11,C0016,Cookware Set,Home & Kitchen,North,Retail Store,1,2200,1785.72,414.28
+O00449,2025-01-23,C0150,Keyboard,Electronics,Central,Marketplace,1,1045.0,894.1,150.9
+O00467,2025-11-05,C0141,Skincare Kit,Beauty & Personal Care,West,Marketplace,1,807.5,647.44,160.06
+O00534,2025-10-12,C0070,Grooming Kit,Beauty & Personal Care,South,Online,1,1125.0,715.42,409.58
+O00502,2025-04-30,C0182,Perfume,Beauty & Personal Care,North,Retail Store,3,5400,3529.0,1871.0
+O00089,2025-02-27,C0145,Backpack,Fashion,North,Marketplace,1,1020.0,769.76,250.24
+O00529,2025-10-04,C0006,Desk Lamp,Home & Kitchen,East,Marketplace,1,900,499.75,400.25
+O00393,2025-07-05,C0078,Pens Set,Office Supplies,Central,Retail Store,1,171.0,118.27,52.73
+O00482,2025-12-28,C0090,File Organizer,Office Supplies,South,Marketplace,2,540.0,373.7,166.3
+O00156,2025-07-01,C0008,Water Bottle,Home & Kitchen,South,Retail Store,1,332.5,272.75,59.75
+O00119,2025-07-04,C0148,Headphones,Electronics,South,Online,1,1450,814.88,635.12
+O00466,2025-12-13,C0006,Notebook Pack,Office Supplies,North,Online,1,220,170.03,49.97
+O00021,2025-01-26,C0057,Cookware Set,Home & Kitchen,Central,Retail Store,1,1870.0,1708.3,161.7
+O00139,2025-01-26,C0072,File Organizer,Office Supplies,South,Retail Store,2,600,474.14,125.86
+O00374,2025-11-21,C0137,Keyboard,Electronics,North,Retail Store,1,1100,646.93,453.07
+O00167,2025-11-25,C0056,Wireless Mouse,Electronics,South,Online,1,650,357.57,292.43
+O00398,2025-03-04,C0099,Pens Set,Office Supplies,South,Retail Store,1,180,112.71,67.29
+O00032,2025-01-16,C0212,Headphones,Electronics,East,Retail Store,2,2755.0,1980.64,774.36
+O00298,2025-03-07,C0010,Storage Box,Home & Kitchen,South,Online,1,500,390.24,109.76
+O00161,2025-06-07,C0129,File Organizer,Office Supplies,South,Online,2,570.0,477.25,92.75
+O00475,2025-08-11,C0052,Backpack,Fashion,Central,Online,2,2160.0,1551.22,608.78
+O00485,2025-02-14,C0069,Keyboard,Electronics,Central,Retail Store,1,990.0,693.09,296.91
+O00008,2025-08-07,C0115,Desk Lamp,Home & Kitchen,Central,Retail Store,3,2430.0,1870.91,559.09
+O00239,2025-07-21,C0153,Water Bottle,Home & Kitchen,North,Online,1,315.0,215.4,99.6
+O00221,2025-07-24,C0025,Skincare Kit,Beauty & Personal Care,Central,Retail Store,3,2565.0,1744.33,820.67
+O00261,2025-12-30,C0138,Keyboard,Electronics,South,Marketplace,2,2090.0,1546.62,543.38
+O00527,2025-07-01,C0158,Perfume,Beauty & Personal Care,North,Marketplace,1,1710.0,1101.84,608.16
+O00271,2025-07-02,C0205,Printer Paper,Office Supplies,North,Marketplace,2,840,501.25,338.75
+O00171,2025-06-05,C0038,Notebook Pack,Office Supplies,East,Marketplace,3,660,487.24,172.76
+O00452,2025-08-27,C0215,Storage Box,Home & Kitchen,Central,Retail Store,2,850.0,681.86,168.14
+O00318,2025-10-08,C0114,Cookware Set,Home & Kitchen,North,Online,2,4400,2632.51,1767.49
+O00396,2025-10-10,C0194,Wallet,Fashion,North,Online,1,550,350.63,199.37
+O00106,2025-07-08,C0074,Hair Dryer,Beauty & Personal Care,East,Online,4,5440.0,4341.8,1098.2
+O00519,2025-02-01,C0146,Printer Paper,Office Supplies,East,Retail Store,1,378.0,288.76,89.24
+O00387,2025-08-31,C0120,Grooming Kit,Beauty & Personal Care,East,Online,1,1250,827.37,422.63
+O00258,2025-09-07,C0154,Storage Box,Home & Kitchen,North,Online,1,475.0,359.83,115.17
+O00397,2025-03-26,C0098,Printer Paper,Office Supplies,West,Marketplace,1,378.0,254.98,123.02
+O00263,2025-02-10,C0173,Grooming Kit,Beauty & Personal Care,East,Retail Store,1,1250,862.86,387.14
+O00122,2025-06-19,C0062,Keyboard,Electronics,North,Marketplace,2,1870.0,1570.74,299.26
+O00467,2025-04-04,C0104,Keyboard,Electronics,South,Online,2,2200,1438.32,761.68
+O00358,2025-08-02,C0114,Cookware Set,Home & Kitchen,Central,Retail Store,1,2200,1475.27,724.73
+O00246,2025-09-06,C0034,Cookware Set,Home & Kitchen,West,Online,5,9350.0,8528.84,821.16
+O00001,2025-07-26,C0074,Hair Dryer,Beauty & Personal Care,East,Online,1,1520.0,1252.25,267.75
+O00115,2025-11-01,C0052,T-Shirt,Fashion,North,Marketplace,2,1235.0,878.98,356.02
+O00095,2025-07-13,C0225,Grooming Kit,Beauty & Personal Care,North,Retail Store,2,2500,1785.41,714.59
+O00527,2025-08-16,C0146,Skincare Kit,Beauty & Personal Care,West,Online,1,950,637.5,312.5
+O00263,2025-08-25,C0072,Printer Paper,Office Supplies,North,Online,1,420,273.48,146.52
+O00193,2025-12-08,C0102,Wallet,Fashion,West,Online,1,550,351.96,198.04
+O00314,2025-08-20,C0042,Notebook Pack,Office Supplies,Central,Retail Store,1,220,167.25,52.75
+O00074,2025-05-09,C0211,File Organizer,Office Supplies,West,Online,2,600,407.37,192.63
+O00317,2025-06-25,C0206,Wireless Mouse,Electronics,North,Marketplace,3,1950,1182.12,767.88
+O00470,2025-11-03,C0227,USB Hub,Electronics,East,Online,2,1700,1109.79,590.21
+O00113,2025-04-23,C0108,Printer Paper,Office Supplies,North,Marketplace,3,1071.0,870.24,200.76
+O00101,2025-02-17,C0173,Hair Dryer,Beauty & Personal Care,East,Online,2,3200,1924.22,1275.78
+O00205,2025-08-05,C0031,Wallet,Fashion,North,Retail Store,2,1100,652.84,447.16
+O00280,2025-01-21,C0167,Wireless Mouse,Electronics,West,Online,4,2600,1538.49,1061.51
+O00290,2025-01-18,C0016,Water Bottle,Home & Kitchen,West,Marketplace,2,665.0,448.77,216.23
+O00417,2025-12-21,C0040,Wallet,Fashion,East,Retail Store,1,467.5,409.27,58.23
+O00367,2025-05-30,C0012,Sneakers,Fashion,Central,Marketplace,1,2400,1570.91,829.09
+O00293,2025-07-16,C0043,Sneakers,Fashion,West,Marketplace,1,2160.0,1957.62,202.38
+O00527,2025-11-19,C0185,Headphones,Electronics,Central,Retail Store,1,1450,886.43,563.57
+O00397,2025-12-11,C0032,Keyboard,Electronics,West,Online,1,1045.0,778.61,266.39
+O00208,2025-07-05,C0086,Wallet,Fashion,West,Marketplace,1,550,350.64,199.36
+O00298,2025-01-12,C0035,Storage Box,Home & Kitchen,North,Retail Store,1,500,386.49,113.51
+O00341,2025-02-10,C0168,Pens Set,Office Supplies,West,Retail Store,1,153.0,111.75,41.25
+O00517,2025-08-12,C0028,USB Hub,Electronics,Central,Marketplace,3,2550,1444.38,1105.62
+O00180,2025-11-02,C0007,Desk Lamp,Home & Kitchen,West,Online,1,900,618.68,281.32
+O00168,2025-10-12,C0195,Wireless Mouse,Electronics,Central,Retail Store,2,1170.0,937.55,232.45
+O00183,2025-05-30,C0103,Storage Box,Home & Kitchen,North,Retail Store,1,475.0,324.18,150.82
+O00045,2025-05-26,C0063,Grooming Kit,Beauty & Personal Care,South,Retail Store,1,1250,895.89,354.11
+O00194,2025-09-12,C0107,Hair Dryer,Beauty & Personal Care,North,Marketplace,1,1600,1033.49,566.51
+O00253,2025-09-27,C0078,Hair Dryer,Beauty & Personal Care,East,Retail Store,1,1440.0,938.09,501.91
+O00456,2025-05-09,C0171,Printer Paper,Office Supplies,West,Online,2,840,588.95,251.05
+O00151,2025-01-20,C0225,Storage Box,Home & Kitchen,Central,Retail Store,3,1500,1160.44,339.56
+O00208,2025-05-17,C0204,Storage Box,Home & Kitchen,West,Retail Store,1,450.0,276.88,173.12
+O00439,2025-10-24,C0045,Wallet,Fashion,North,Marketplace,2,1100,703.99,396.01
+O00069,2025-01-29,C0118,Wallet,Fashion,North,Online,1,495.0,435.0,60.0
+O00192,2025-04-07,C0101,Wireless Mouse,Electronics,South,Online,1,617.5,417.21,200.29
+O00287,2025-01-02,C0028,Sneakers,Fashion,North,Retail Store,1,2040.0,1344.05,695.95
+O00016,2025-12-10,C0141,Desk Lamp,Home & Kitchen,Central,Retail Store,2,1800,1323.03,476.97
+O00451,2025-10-07,C0189,Keyboard,Electronics,North,Retail Store,4,4400,2772.0,1628.0
+O00203,2025-07-07,C0031,Sneakers,Fashion,West,Marketplace,1,2400,1778.03,621.97
+O00253,2025-08-03,C0189,Printer Paper,Office Supplies,East,Online,1,420,286.02,133.98
+O00259,2025-10-05,C0066,Perfume,Beauty & Personal Care,West,Marketplace,1,1800,1310.83,489.17
+O00165,2025-11-23,C0098,Notebook Pack,Office Supplies,Central,Online,1,187.0,157.64,29.36
+O00411,2025-02-18,C0028,Storage Box,Home & Kitchen,East,Online,2,900.0,689.62,210.38
+O00412,2025-01-08,C0010,File Organizer,Office Supplies,South,Online,3,900,653.55,246.45
+O00172,2025-01-01,C0119,Headphones,Electronics,Central,Retail Store,2,2900,1919.84,980.16
+O00330,2025-11-25,C0090,Printer Paper,Office Supplies,North,Online,2,798.0,579.0,219.0
+O00125,2025-09-16,C0137,USB Hub,Electronics,East,Retail Store,1,850,648.58,201.42
+O00343,2025-11-24,C0025,Storage Box,Home & Kitchen,North,Online,1,500,370.98,129.02
+O00240,2025-09-24,C0058,Hair Dryer,Beauty & Personal Care,West,Retail Store,2,3200,2483.36,716.64
+O00052,2025-08-16,C0118,Hair Dryer,Beauty & Personal Care,Central,Marketplace,1,1600,1053.87,546.13
+O00214,2025-07-11,C0125,Pens Set,Office Supplies,Central,Marketplace,2,342.0,289.6,52.4
+O00367,2025-06-08,C0073,File Organizer,Office Supplies,West,Online,1,270.0,239.86,30.14
+O00012,2025-04-17,C0200,Desk Lamp,Home & Kitchen,North,Marketplace,1,810.0,524.04,285.96
+O00260,2025-07-03,C0084,Hair Dryer,Beauty & Personal Care,South,Marketplace,1,1440.0,959.8,480.2
+O00136,2025-04-24,C0226,Cookware Set,Home & Kitchen,East,Online,2,4400,3527.66,872.34
+O00081,2025-04-12,C0220,Sneakers,Fashion,North,Retail Store,2,4800,3076.6,1723.4
+O00412,2025-11-01,C0076,Hair Dryer,Beauty & Personal Care,South,Online,2,3040.0,1969.42,1070.58
+O00535,2025-01-02,C0083,File Organizer,Office Supplies,West,Online,1,300,182.77,117.23
+O00365,2025-03-13,C0137,File Organizer,Office Supplies,South,Marketplace,1,300,210.76,89.24
+O00111,2025-02-27,C0033,Water Bottle,Home & Kitchen,North,Marketplace,3,892.5,856.04,36.46
+O00338,2025-02-21,C0230,File Organizer,Office Supplies,North,Online,1,270.0,205.22,64.78
+O00349,2025-01-12,C0170,Perfume,Beauty & Personal Care,East,Retail Store,3,5400,4100.15,1299.85
+O00486,2025-10-08,C0148,Printer Paper,Office Supplies,North,Online,2,840,574.27,265.73
+O00033,2025-10-16,C0123,Perfume,Beauty & Personal Care,Central,Retail Store,1,1800,1385.06,414.94
+O00047,2025-11-09,C0086,Printer Paper,Office Supplies,West,Marketplace,2,840,482.35,357.65
+O00368,2025-12-10,C0070,Printer Paper,Office Supplies,North,Marketplace,1,399.0,308.31,90.69
+O00378,2025-10-28,C0001,Hair Dryer,Beauty & Personal Care,West,Marketplace,3,4560.0,2658.65,1901.35
+O00529,2025-05-04,C0163,Headphones,Electronics,South,Retail Store,2,2900,1916.39,983.61
+O00267,2025-09-19,C0138,Notebook Pack,Office Supplies,East,Retail Store,1,220,169.15,50.85
+O00382,2025-10-18,C0168,Cookware Set,Home & Kitchen,East,Online,1,2200,1540.01,659.99
+O00312,2025-05-28,C0197,T-Shirt,Fashion,North,Marketplace,3,1950,1174.62,775.38
+O00271,2025-09-06,C0030,Perfume,Beauty & Personal Care,East,Online,1,1800,1248.46,551.54
+O00257,2025-10-03,C0160,Sneakers,Fashion,Central,Online,1,2400,1328.57,1071.43
+O00142,2025-08-09,C0138,Desk Lamp,Home & Kitchen,East,Marketplace,2,1710.0,1448.96,261.04
+O00502,2025-07-01,C0068,Printer Paper,Office Supplies,West,Online,2,756.0,537.08,218.92
+O00439,2025-05-23,C0038,Hair Dryer,Beauty & Personal Care,South,Retail Store,1,1600,1291.3,308.7
+O00404,2025-10-10,C0120,Storage Box,Home & Kitchen,South,Retail Store,4,2000,1320.42,679.58
+O00416,2025-12-13,C0106,Hair Dryer,Beauty & Personal Care,Central,Retail Store,1,1360.0,953.23,406.77
+O00310,2025-10-17,C0006,T-Shirt,Fashion,Central,Retail Store,1,617.5,476.11,141.39
+O00343,2025-08-02,C0116,Wireless Mouse,Electronics,North,Online,1,650,461.11,188.89
+O00043,2025-02-16,C0042,T-Shirt,Fashion,South,Online,1,552.5,418.79,133.71
+O00035,2025-09-16,C0209,Printer Paper,Office Supplies,West,Retail Store,1,378.0,325.74,52.26
+O00232,2025-02-20,C0061,Water Bottle,Home & Kitchen,West,Retail Store,1,297.5,216.93,80.57
+O00188,2025-04-08,C0171,Notebook Pack,Office Supplies,South,Retail Store,2,396.0,285.02,110.98
+O00285,2025-03-01,C0128,Headphones,Electronics,Central,Retail Store,2,2755.0,2341.84,413.16
+O00158,2025-05-16,C0037,Pens Set,Office Supplies,North,Online,1,180,131.31,48.69
+O00094,2025-01-15,C0170,Water Bottle,Home & Kitchen,North,Online,1,332.5,214.86,117.64
+O00230,2025-06-20,C0054,File Organizer,Office Supplies,Central,Marketplace,1,270.0,239.7,30.3
+O00308,2025-08-06,C0227,Pens Set,Office Supplies,South,Online,2,342.0,232.4,109.6
+O00443,2025-12-02,C0003,Printer Paper,Office Supplies,Central,Marketplace,1,399.0,234.13,164.87
+O00506,2025-11-24,C0173,Pens Set,Office Supplies,South,Marketplace,1,180,99.97,80.03
+O00094,2025-06-02,C0167,Perfume,Beauty & Personal Care,North,Online,2,3600,2274.49,1325.51
+O00103,2025-11-17,C0103,Headphones,Electronics,West,Online,1,1450,1140.99,309.01
+O00110,2025-07-30,C0179,Pens Set,Office Supplies,North,Marketplace,2,360,280.79,79.21
+O00300,2025-09-01,C0126,Pens Set,Office Supplies,South,Marketplace,1,180,108.02,71.98
+O00319,2025-07-22,C0133,Hair Dryer,Beauty & Personal Care,Central,Online,2,3040.0,2137.86,902.14
+O00465,2025-12-12,C0082,Sneakers,Fashion,North,Marketplace,2,4800,3269.66,1530.34
+O00371,2025-08-16,C0029,Perfume,Beauty & Personal Care,South,Marketplace,1,1800,1044.6,755.4
+O00055,2025-01-20,C0155,Water Bottle,Home & Kitchen,North,Online,2,700,426.71,273.29
+O00253,2025-11-01,C0218,Hair Dryer,Beauty & Personal Care,North,Marketplace,1,1360.0,1074.84,285.16
+O00195,2025-12-05,C0153,USB Hub,Electronics,East,Retail Store,3,2550,1713.78,836.22
+O00074,2025-03-22,C0224,Wireless Mouse,Electronics,East,Marketplace,1,617.5,477.97,139.53
+O00103,2025-04-07,C0201,Headphones,Electronics,Central,Retail Store,3,4350,3524.91,825.09
+O00437,2025-09-05,C0176,Wireless Mouse,Electronics,East,Online,1,585.0,398.2,186.8
+O00186,2025-09-24,C0162,File Organizer,Office Supplies,South,Retail Store,3,900,500.29,399.71
+O00406,2025-05-22,C0061,Headphones,Electronics,North,Online,1,1450,976.14,473.86
+O00254,2025-08-27,C0131,Storage Box,Home & Kitchen,Central,Retail Store,1,425.0,342.09,82.91
+O00470,2025-09-24,C0228,Pens Set,Office Supplies,West,Marketplace,4,720,497.78,222.22
+O00075,2025-06-23,C0111,Desk Lamp,Home & Kitchen,South,Retail Store,2,1800,1360.36,439.64
+O00352,2025-07-11,C0017,Storage Box,Home & Kitchen,Central,Marketplace,4,1900.0,1264.12,635.88
+O00370,2025-10-09,C0081,Pens Set,Office Supplies,West,Online,1,180,114.86,65.14
+O00077,2025-12-02,C0016,Notebook Pack,Office Supplies,East,Retail Store,1,220,134.72,85.28
+O00430,2025-06-30,C0122,Perfume,Beauty & Personal Care,South,Online,1,1710.0,1362.68,347.32
+O00442,2025-09-25,C0213,Pens Set,Office Supplies,North,Marketplace,1,162.0,99.1,62.9
+O00048,2025-09-20,C0132,Keyboard,Electronics,Central,Marketplace,1,1045.0,888.87,156.13
+O00295,2025-07-03,C0160,Pens Set,Office Supplies,East,Retail Store,2,306.0,289.33,16.67
+O00124,2025-04-06,C0024,T-Shirt,Fashion,South,Retail Store,2,1105.0,763.27,341.73
+O00189,2025-12-12,C0170,Water Bottle,Home & Kitchen,South,Retail Store,4,1190.0,1087.64,102.36
+O00317,2025-10-14,C0091,Pens Set,Office Supplies,North,Marketplace,2,306.0,249.72,56.28
